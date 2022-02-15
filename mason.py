@@ -2,6 +2,8 @@
 Provides Pydantic models for representing the JSON elements in the Mason standard
 
 https://github.com/JornWildt/Mason/blob/master/Documentation/Mason-draft-2.md
+
+From: https://github.com/joniumGit/pydantic-mason
 """
 from datetime import datetime
 from enum import Enum
